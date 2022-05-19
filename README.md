@@ -1,4 +1,4 @@
-# NoneBot-Plugin-jingdong
+# NoneBot-Plugin-JingDong
 基于NoneBot2的京东查询插件。  
 第一次写插件，~~可能~~ 肯定有许许多多的问题。
 
