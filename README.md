@@ -4,11 +4,11 @@
 
 ### 安装说明
 ```
-环境：
-httpx、random、bs4、nonebot、typing
-
 下载：  
 直接下载插件文件夹塞入Bot的插件文件夹
+
+环境：  
+pip install -r requirement.txt
 ```
 
 ### 使用说明
